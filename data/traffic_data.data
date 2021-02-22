@@ -1,0 +1,5 @@
+classes = 4
+train = data/traffic_train.txt
+valid =  data/traffic_test.txt
+names =  data/traffic_classes.names
+backup = /mydrive/traffic_weights
