@@ -1,1 +1,7 @@
 # traffice_signs_detection_yolov3
+Training YOLO v3 for Objects Detection with Custom Data.
+In this project i am training YOLO v3 on traffic signs dataset.
+I trained the model on google colab GPU on windows.
+I first did the necessary changes to the darknet folder in my local system and then  uploaded all the files into google drive and then executed the code.
+
+
