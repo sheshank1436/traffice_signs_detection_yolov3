@@ -6,6 +6,8 @@ I first did the necessary changes to the darknet folder in my local system and t
 image_path_to_train_test_txt_files.py is the python file to split the input data into training and validation based on the given  split percentage.
 
 https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b
+
+https://stackoverflow.com/questions/50390836/understanding-darknets-yolo-cfg-config-files
  
 
 
